@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SmarterCL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, me llamo Pedro Zaffuto y trabajo en el proyecto @SmarterBOT
+- 👀 mi pasión son las tecnológicas del comercio automatizado de WhatsApp Bussiness
+- 🌱 Docker y TypeScript son los descubrimientos del año 2023
+- 💞️ este año la Ai cubre todas las expectativas
+- 📫 smrterbotcl@gmail.com --- www.smarterbot.cl --- Wasp +56979540471
 
-<!---
-SmarterCL/SmarterCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
