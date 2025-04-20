@@ -1,12 +1,6 @@
-👋 ¡Hola! Soy Pedro Zaffuto, y formo parte del equipo de @SmarterBOT.cl
+🚀 Transformamos tus datos en conocimiento accionable.
+Impulsamos la eficiencia de tu negocio mediante automatización potenciado por Ai
 
-👀 Me apasiona la automatización y la venta por chatBOT
-
-🌱 En el año 2023, mis mayores descubrimientos fueron Docker y TypeScript.
-
-💞️ Estoy emocionado porque este año la Inteligencia Artificial supera todas nuestras expectativas.
-
-📫 Puedes contactarme en smarterbotcl@gmail.com o visitar nuestro sitio www.smarterbot.cl
-
-🤖 También puedes encontrarnos en WhatsApp al +56979540471 (CHILE).
-
+👋 ¡Hola! Soy Pedro Zaffuto, parte del equipo de @SmarterBOT.cl
+📬 Escríbeme a smarterbotcl@gmail.com o visita la web: www.smarterbot.cl
+📱 También puedes hablarme directamente por WhatsApp: +56 9 7954 0471 (Chile)
